@@ -1,0 +1,3 @@
+[submodule "Plugins/GeographicLibWrapper"]
+	path = Plugins/GeographicLibWrapper
+	url = https://github.com/n1ckfg/GeographicLibWrapper
